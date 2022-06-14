@@ -1,5 +1,4 @@
-# Mutli_Pricess
-Multi_Process python多进程
+# Mutli_Pricess python多进程
 
 demo1 - demo4: 多进程的基本使用
 
